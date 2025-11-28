@@ -1,0 +1,14 @@
+/home/rafael/Downloads/carometro_project-20251126T191010Z-1-001/carometro_project/backend/src/main/java/com/example/carometro/CarometroApplication.java
+/home/rafael/Downloads/carometro_project-20251126T191010Z-1-001/carometro_project/backend/src/main/java/com/example/carometro/config/SQLiteDialect.java
+/home/rafael/Downloads/carometro_project-20251126T191010Z-1-001/carometro_project/backend/src/main/java/com/example/carometro/config/WebConfig.java
+/home/rafael/Downloads/carometro_project-20251126T191010Z-1-001/carometro_project/backend/src/main/java/com/example/carometro/controller/AuthController.java
+/home/rafael/Downloads/carometro_project-20251126T191010Z-1-001/carometro_project/backend/src/main/java/com/example/carometro/controller/EvaluationController.java
+/home/rafael/Downloads/carometro_project-20251126T191010Z-1-001/carometro_project/backend/src/main/java/com/example/carometro/controller/StudentController.java
+/home/rafael/Downloads/carometro_project-20251126T191010Z-1-001/carometro_project/backend/src/main/java/com/example/carometro/model/Evaluation.java
+/home/rafael/Downloads/carometro_project-20251126T191010Z-1-001/carometro_project/backend/src/main/java/com/example/carometro/model/Student.java
+/home/rafael/Downloads/carometro_project-20251126T191010Z-1-001/carometro_project/backend/src/main/java/com/example/carometro/model/User.java
+/home/rafael/Downloads/carometro_project-20251126T191010Z-1-001/carometro_project/backend/src/main/java/com/example/carometro/repository/EvaluationRepository.java
+/home/rafael/Downloads/carometro_project-20251126T191010Z-1-001/carometro_project/backend/src/main/java/com/example/carometro/repository/StudentRepository.java
+/home/rafael/Downloads/carometro_project-20251126T191010Z-1-001/carometro_project/backend/src/main/java/com/example/carometro/repository/UserRepository.java
+/home/rafael/Downloads/carometro_project-20251126T191010Z-1-001/carometro_project/backend/src/main/java/com/example/carometro/security/TokenFilter.java
+/home/rafael/Downloads/carometro_project-20251126T191010Z-1-001/carometro_project/backend/src/main/java/com/example/carometro/security/TokenStore.java
